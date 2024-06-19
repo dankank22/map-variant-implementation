@@ -2,7 +2,7 @@
 
 A set of programs implementing map variants - chainedHashMaps and arrayMaps with defined methods and constraints
 
-# Implementation
+### Implementation
 
 -All methods must run in O(n) time, where n is the size of the map.
 -size() and iterator() must run in O(1) time.
